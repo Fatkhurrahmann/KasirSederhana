@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{38D231F9-2F9D-46DC-B6D4-D3B587310F60}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.My.MyApplication</StartupObject>
+    <RootNamespace>Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010</RootNamespace>
+    <AssemblyName>Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.4.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.4\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormBar.Designer.vb">
+      <DependentUpon>FormBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapDataMaster.Designer.vb">
+      <DependentUpon>FormLapDataMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapDataMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapDataMasterAdmin.Designer.vb">
+      <DependentUpon>FormLapDataMasterAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapDataMasterAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapDataMasterBarang.Designer.vb">
+      <DependentUpon>FormLapDataMasterBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapDataMasterBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapDataMasterPelanggan.Designer.vb">
+      <DependentUpon>FormLapDataMasterPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapDataMasterPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasterAdmin.Designer.vb">
+      <DependentUpon>FormMasterAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasterAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasterBarang.Designer.vb">
+      <DependentUpon>FormMasterBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasterBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasterPelanggan.Designer.vb">
+      <DependentUpon>FormMasterPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasterPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuUtama.Designer.vb">
+      <DependentUpon>FormMenuUtama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formstruk.Designer.vb">
+      <DependentUpon>Formstruk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formstruk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransjual.Designer.vb">
+      <DependentUpon>FormTransjual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransjual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsername.Designer.vb">
+      <DependentUpon>FormUsername.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsername.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormBar.resx">
+      <DependentUpon>FormBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapDataMaster.resx">
+      <DependentUpon>FormLapDataMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapDataMasterAdmin.resx">
+      <DependentUpon>FormLapDataMasterAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapDataMasterBarang.resx">
+      <DependentUpon>FormLapDataMasterBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapDataMasterPelanggan.resx">
+      <DependentUpon>FormLapDataMasterPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasterAdmin.resx">
+      <DependentUpon>FormMasterAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasterBarang.resx">
+      <DependentUpon>FormMasterBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasterPelanggan.resx">
+      <DependentUpon>FormMasterPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuUtama.resx">
+      <DependentUpon>FormMenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formstruk.resx">
+      <DependentUpon>Formstruk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransjual.resx">
+      <DependentUpon>FormTransjual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsername.resx">
+      <DependentUpon>FormUsername.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

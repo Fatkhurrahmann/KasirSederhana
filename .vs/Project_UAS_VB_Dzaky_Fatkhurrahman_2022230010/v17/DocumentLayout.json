@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|c:\\users\\tuf gaming\\source\\repos\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formusername.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formusername.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formusername.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formusername.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formtransjual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formtransjual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formtransjual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formtransjual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlapdatamasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlapdatamasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlapdatamasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formlapdatamasteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmasterpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formbar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formbar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\project_uas_vb_dzaky_fatkhurrahman_2022230010\\formbar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38D231F9-2F9D-46DC-B6D4-D3B587310F60}|Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010.vbproj|solutionrelative:project_uas_vb_dzaky_fatkhurrahman_2022230010\\formbar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTransjual.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAjwHcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T16:34:17.84Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTransjual.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormTransjual.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-04T14:55:17.967Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T02:26:26.027Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T02:36:10.739Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUsername.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T08:09:18.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormUsername.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormUsername.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T08:05:58.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMasterBarang.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAwwDgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T17:51:55.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormLapDataMasterAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T16:49:10.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormLapDataMasterAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormLapDataMasterAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T16:49:08.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMasterBarang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterBarang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T16:31:19.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMasterPelanggan.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAawF8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T06:35:26.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormBar.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T02:40:31.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormBar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormBar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T02:40:30.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormMenuUtama.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T02:19:25.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMenuUtama.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMenuUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T02:14:00.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMasterAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-04T14:54:04.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormMasterPelanggan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb [Design]",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterPelanggan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-28T14:28:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMasterAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\FormMasterAdmin.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-28T01:13:13.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Module1.vb",
+              "RelativeDocumentMoniker": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Module1.vb",
+              "ToolTip": "C:\\Users\\Tuf Gaming\\source\\repos\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Module1.vb",
+              "RelativeToolTip": "Project_UAS_VB_Dzaky_Fatkhurrahman_2022230010\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T02:46:28.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
